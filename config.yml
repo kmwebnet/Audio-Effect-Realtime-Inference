@@ -1,0 +1,4 @@
+---
+input_timesteps: 960
+output_timesteps: 480
+batch_size: 64
